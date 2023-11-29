@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "23499804389",
+    "project_id": "juicedates-1c227",
+    "storage_bucket": "juicedates-1c227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23499804389:android:44978156d0c1fe267bce0c",
+        "android_client_info": {
+          "package_name": "com.example.juicedates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23499804389-c39tekd6ee04uk18h98ealoko4uvg7io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHXKxYhbRno644BofQ0qaJO4V108qVBTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23499804389-c39tekd6ee04uk18h98ealoko4uvg7io.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "23499804389-celmm387cjulo2jhh27om1tcs8i88a0g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.juicedates.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
